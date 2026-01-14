@@ -12,13 +12,27 @@
         
         
             <div class="menu">
-            
-                <a href="#">Homepage</a>
-                <a href="#">Videogames</a>
-                <a href="#">Videos</a>
-                <a href="#">Image and Branding</a>
-                <a href="#">Writing</a>
-                <a href="#">About</a>
+                
+                <section style="align-items: center;">
+
+                    <img src="Images/Untitled.png" alt="Logo">
+                
+                </section>
+
+                <section>
+
+                <nav>
+
+                    <a href="#">Homepage</a>
+                    <a href="#">Videogames</a>
+                    <a href="#">Videos</a>
+                    <a href="#">Image and Branding</a>
+                    <a href="#">Writing</a>
+                    <a href="#">About</a>
+
+                </nav>
+
+                </section>
 
             </div>
 
