@@ -6,18 +6,21 @@
         <title></title>
         <meta name="" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="CSS.css">
+        <link rel="stylesheet" href="CSSStyle">
     </head>
     <body>
         
         <div class="menu">
+            <div class="menuLinks">
             
-            <a href="#">Homepage</a>
-            <a href="#">Videogames</a>
-            <a href="#">Videos</a>
-            <a href="#">Image and Branding</a>
-            <a href="#">Writing</a>
-            <a href="#">About</a>
+                <a href="#">Homepage</a>
+                <a href="#">Videogames</a>
+                <a href="#">Videos</a>
+                <a href="#">Image and Branding</a>
+                <a href="#">Writing</a>
+                <a href="#">About</a>
+
+            </div>
 
         </div>
 
