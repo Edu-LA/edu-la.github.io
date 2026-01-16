@@ -1,0 +1,10 @@
+const toggleBtn = document.querySelector('.menu-toggle');
+const sidebar = document.querySelector('.sidebar');
+const main = document.querySelector('.main-content')
+
+toggleBtn.addEventListener('click', () => {
+
+    sidebar.classList.toggle('open');
+    main.classList.toggle('shifted');
+
+});

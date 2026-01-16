@@ -13,15 +13,18 @@
 
         <button class="menu-toggle">
 
-            <svg>
+            <svg viewbox="0 0 24 24">
 
-
+                <rect y="4" width="24" height="2" fill="white" />
+                <rect y="11" width="24" height="2" fill="white" />
+                <rect y="17" width="24" height="2" fill="white" />
 
             </svg>
 
-            <img src="Images/Untitled.png" alt="Logo" class="topbar-logo">
 
         </button>
+
+        <img src="Images/Untitled.png" alt="Logo" class="topbar-logo">
 
     </header>
 
@@ -58,12 +61,12 @@
 
         
 
-        <div class="main">
+        <div class="main-content">
 
             <p> asdiuashdi</p>
 
         </div>
-
-       
+    
+    <script src="JS/menubuttonjs"></script>
     </body>
 </html>
