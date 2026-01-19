@@ -18,19 +18,24 @@ body {
 
 }
 
+:root {
+
+    --sidebar-width: clamp(150px, 20vw, 350px);
+
+}
+
 
 .main-content {
 
-    padding-left: 20%;
     flex: 1; 
+    position: relative;
+    width: 100%;
 
 }
 
 
 .menu-container {
 
-    display: flex;
-    transition: transform 0.3s ease;
     text-align: center;
 
 }
@@ -38,7 +43,7 @@ body {
 .sidebar {
 
     height: 100vh;
-    width: 20%;
+    width: var(--sidebar-width);
     min-width: 150px;
     max-width: 350px;
     position: fixed;
@@ -48,32 +53,16 @@ body {
     background-color: #212121;
     overflow-x: hidden;
     padding-top: 50px;
-    align-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10vh;
+    padding-bottom: 15vh;
 
 }
 
-.topbar {
-
-    display: none;
-
-}
-
-.topbar-logo {
-
-    display: none;
-
-}
-
-.sidebar-logo {
-
-    padding: 24px;
-
-}
-
-.sidebar-logo img {
-
-    height: auto;
-    width: clamp(80px, 60%, 160px);
+.sidebar nav {
+    
+    margin-top: auto;
 
 }
 
@@ -110,20 +99,82 @@ body {
     
 }
 
+.sidebar-logo {
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.sidebar-logo img {
+
+    display: block;
+
+    width: clamp(120px, 60%, 180px);
+    height: auto;
+
+    max-width: 100%;
+
+}
+
+.topbar {
+
+    display: none;
+
+}
+
+.topbar-logo {
+
+    display: none;
+
+}
+
+@media (min-width: 769px) {
+
+    .main-content {
+
+        margin-left: var(--sidebar-width);
+
+    }
+
+}
 
 @media screen and (max-width: 768px){
 
+    :root {
+        --sidebar-width: clamp(240px, 80vw, 320px);
+    }
+
+    .main-content {
+
+        margin-left: 0;
+        transition: transform 0.3s ease;
+
+    }
+
     .sidebar {
 
-        width: 40%;
         position: fixed;
-        transform: translateX(-350px);
+        transform: translateX(-100%);
         top: 0;
         height: 100%;
         z-index: 1000;
         transition: transform 0.3s ease;
 
     }
+
+    .sidebar a {
+    
+    position: relative;
+    padding: 8px 0;
+    text-align: center;
+    text-decoration: none;
+    font-size: clamp(18px, 1.2vw, 28px);
+    color: white;
+    display: inline-block;
+
+}
 
     .sidebar.open {
 
@@ -133,8 +184,7 @@ body {
 
     .main-content.shift {
 
-        transform: translateX(350px);
-        transition: transform 0.3s ease;
+        transform: translateX(var(--sidebar-width));
 
     }
 
@@ -160,7 +210,9 @@ body {
     }
 
     .menu-toggle {
-
+    
+    width: 48px;
+    height: 48px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -174,8 +226,8 @@ body {
 
   .menu-toggle svg{
 
-    width: 1.8rem;
-    height: 1.8rem;
+    width: 24px;
+    height: 24px;
     fill: currentColor;
 
   }

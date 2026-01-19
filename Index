@@ -13,11 +13,11 @@
 
         <button class="menu-toggle">
 
-            <svg viewbox="0 0 24 24">
+            <svg viewBox="0 0 24 24">
 
                 <rect y="4" width="24" height="2" fill="white" />
                 <rect y="11" width="24" height="2" fill="white" />
-                <rect y="17" width="24" height="2" fill="white" />
+                <rect y="18" width="24" height="2" fill="white" />
 
             </svg>
 
