@@ -104,6 +104,12 @@
 
 @media (max-width: 768px) {
 
+    body {
+
+        overflow: auto;
+
+    }
+
     .projects-container {
         padding: 20px 16px;
 
