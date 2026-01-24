@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <title>About</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="CSS-Files/Base.css">
+    <link rel="stylesheet" href="CSS-Files/Layout.css">
+    <link rel="stylesheet" href="CSS-Files/About.css">
+    <link rel="stylesheet" href="CSS-Files/Responsive.css">
+
+</head>
+
+<body>
+
+    <header class="topbar">
+
+        <img src="Images/Untitled.png" alt="Logo" class="topbar-logo">
+
+        <button class="menu-toggle">
+
+            <svg viewBox="0 0 24 24">
+
+                <rect class="line top" x="0" y="4" width="24" height="2" fill="white" />
+                <rect class="line middle" x="0" y="11" width="24" height="2" fill="white" />
+                <rect class="line bottom" x="0" y="18" width="24" height="2" fill="white" />
+
+            </svg>
+
+        </button>
+
+    </header>
+
+    <div class="menu-container">
+
+        <aside class="sidebar">
+
+            <div class="sidebar-logo">
+
+                <img src="Images/Untitled.png" alt="Logo">
+
+            </div>
+            
+            <nav>
+
+                <ul>
+
+                    <li><a href="Index">Homepage</a></li>
+                    <li><a href="videogames">Videogames</a></li>
+                    <li><a href="videos">Videos</a></li>
+                    <li><a href="image-branding">Image and Branding</a></li>
+                    <li><a href="writing">Writing</a></li>
+                    <li><a href="about" class="active">About</a></li>
+
+                </ul>
+
+            </nav>
+
+        </aside>
+
+    </div>
+    
+    <main class="main-content">
+
+        <div class="about-container">
+            
+            <section class="about-intro">
+
+                <div class="intro-text">
+
+                    <h1>About Me</h1>
+                    <p>Hi, I'm [Your Name]. I'm a [your role/title] passionate about creating engaging experiences through design and interactive media.</p>
+                    <p>Write your introduction here. Talk about your background, what drives you, and what you're passionate about. This is your chance to connect with visitors and show your personality.</p>
+                    <p>Add as many paragraphs as you need to tell your story authentically.</p>
+
+                </div>
+
+                <div class="intro-image">
+
+                    <img src="Images/your-photo.jpg" alt="Your Name">
+
+                </div>
+
+            </section>
+            
+
+            <section class="about-skills">
+
+                <h2>Tools</h2>
+
+                <div class="skills-grid">
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/unity-icon.png" alt="Unity">
+                    </div>
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/unreal-icon.png" alt="Unreal Engine 5">
+                    </div>
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/photoshop-icon.png" alt="Photoshop">
+                    </div>
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/premiere-icon.png" alt="Premiere Pro">
+                    </div>
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/aftereffects-icon.png" alt="After Effects">
+                    </div>
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/illustrator-icon.png" alt="Illustrator">
+                    </div>
+
+                    <div class="skill-item">
+                        <img src="Images/Tools/blender-icon.png" alt="Blender">
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="about-qualifications">
+
+                <h2>Education & Qualifications</h2>
+                
+                <div class="qualification-item">
+
+                    <div class="qual-header">
+
+                        <h3>Bachelor's Degree in Design</h3>
+                        <span class="qual-year">2018 - 2022</span>
+
+                    </div>
+
+                    <p class="qual-institution">University Name, Location</p>
+                    <p class="qual-description">Brief description of your degree, what you studied, any notable achievements or projects during this time.</p>
+
+                </div>
+                
+                <div class="qualification-item">
+
+                    <div class="qual-header">
+
+                        <h3>Specialized High School Course in Computer Science</h3>
+                        <span class="qual-year">2015 - 2018</span>
+
+                    </div>
+
+                    <p class="qual-institution">School Name, Location</p>
+                    <p class="qual-description">What you learned, skills you developed, any relevant coursework.</p>
+                    
+                </div>
+
+                <div class="qualification-item">
+
+                    <div class="qual-header">
+
+                        <h3>Certification or Additional Training</h3>
+
+                        <span class="qual-year">2023</span>
+
+                    </div>
+
+                    <p class="qual-institution">Institution Name</p>
+                    <p class="qual-description">Description of the certification or training program.</p>
+
+                </div>
+                
+            </section>
+            
+        </div>
+        
+    </main>
+    
+    <script src="JS/menubuttonjs"></script>
+</body>
+</html>
