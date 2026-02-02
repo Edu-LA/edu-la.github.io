@@ -91,9 +91,9 @@
 
                 <div class="project-info">
 
-                    <h2 class="project-title">Another Project Title</h2>
-                    <p class="project-summary">Another brief description. You can adjust the length as needed for each project.</p>
-                    <a href="project-detail-2.html" class="project-link">See more →</a>
+                    <h2 class="project-title">Cultural Posters - Hacksaw Ridge</h2>
+                    <p class="project-summary">Project made in the context of a branding class with the objective of re-imagining a poster of a film of choice.</p>
+                    <a href="Cultural-Posters" class="project-link">See more →</a>
 
                 </div>
 
@@ -109,9 +109,9 @@
 
                 <div class="project-info">
 
-                    <h2 class="project-title">Third Project Title</h2>
-                    <p class="project-summary">Keep adding project cards like this. Each category page can have as many or as few projects as you need.</p>
-                    <a href="project-detail-3.html" class="project-link">See more →</a>
+                    <h2 class="project-title">Herbarium</h2>
+                    <p class="project-summary">Project made in the context of a photography class where we were asked to make a photographic herbarium with a theme of our choice. The theme used in the work by me was "The abandonment of the countryside of Portugal".</p>
+                    <a href="Herbarium" class="project-link">See more →</a>
 
                 </div>
 

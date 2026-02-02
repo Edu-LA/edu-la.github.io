@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <title>Animal Documentary - Codename: VR</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="CSS-Files/Base.css">
+    <link rel="stylesheet" href="CSS-Files/Layout.css">
+    <link rel="stylesheet" href="CSS-Files/ProjectDetail.css">
+    <link rel="stylesheet" href="CSS-Files/Responsive.css">
+
+</head>
+
+<body>
+
+    <header class="topbar">
+
+        <img src="Images/Untitled.png" alt="Logo" class="topbar-logo">
+
+        <button class="menu-toggle">
+
+            <svg viewBox="0 0 24 24">
+
+                <rect class="line top" x="0" y="4" width="24" height="2" fill="white" />
+                <rect class="line middle" x="0" y="11" width="24" height="2" fill="white" />
+                <rect class="line bottom" x="0" y="18" width="24" height="2" fill="white" />
+            </svg>
+
+        </button>
+
+    </header>
+    
+    <div class="menu-container">
+
+        <aside class="sidebar">
+
+            <div class="sidebar-logo">
+
+                <img src="Images/Untitled.png" alt="Logo">
+            </div>
+
+            
+            <nav>
+
+                <ul>
+
+                    <li><a href="Index">Homepage</a></li>
+                    <li><a href="videogames">Videogames</a></li>
+                    <li><a href="videos">Videos</a></li>
+                    <li><a href="image-branding">Image and Branding</a></li>
+                    <li><a href="writing">Writing</a></li>
+                    <li><a href="about">About</a></li>
+
+                </ul>
+
+            </nav>
+
+        </aside>
+
+    </div>
+    
+    <main class="main-content">
+
+        <div class="project-detail-container">
+            
+
+            <a href="Videos" class="back-link">← Back</a>
+            
+
+            <section class="project-header">
+
+                <img src="Images/Projects/project-header.jpg" alt="Project Name">
+
+                <h1>Animal Documentary - Codename: VR</h1>
+
+            </section>
+            
+
+            <section class="project-content">
+
+                <div class="project-description">
+
+                    <h2>About This Project</h2>
+                    <p>This project was made in the context of a video editing class with the objective of stylized documentary. The objective was learning proper editing techniques while maintaining a distinct visual identity.</b></p>
+                    <p>The documentary tries to simulate a body cam of a special agent investigating a village where a virus (inspired by Resident Evil / Biohazard) has amde animals to be aggressive towards humans. Using this concept, I created a short story and started shooting as many scenes as I could, walking around a village and recording the animals living in its streets. A VHS camera effect was used, and in certain parts of the video text was introduced to simulate the effect used in confidential documents to explain certain aspects of the story.</p>
+                    
+                </div>
+
+                <div class="project-hero">
+
+                    <img src="Images/Projects/project-hero.jpg" alt="Project Hero Image">
+
+                </div>
+
+            </section>
+            
+
+            <!-- Create a video query here.-->
+            
+        </div>
+    </main>
+    
+    <script src="JS/menubuttonjs"></script>
+    <script src="JS/gallery"></script>
+</body>
+</html>

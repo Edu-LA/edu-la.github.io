@@ -73,45 +73,9 @@
 
                 <div class="project-info">
 
-                    <h2 class="project-title">Project Title Here</h2>
+                    <h2 class="project-title">Animal Documentary - Codename: VR</h2>
                     <p class="project-summary">Brief description of the project goes here. Keep it concise and engaging to give users a quick overview of what this project is about.</p>
-                    <a href="project-detail-1.html" class="project-link">See more →</a>
-
-                </div>
-
-            </article>
-            
-            <article class="project-card">
-
-                <div class="project-thumbnail">
-
-                    <img src="Images/Projects/project2-thumb.jpg" alt="Project Name">
-
-                </div>
-
-                <div class="project-info">
-
-                    <h2 class="project-title">Another Project Title</h2>
-                    <p class="project-summary">Another brief description. You can adjust the length as needed for each project.</p>
-                    <a href="project-detail-2.html" class="project-link">See more →</a>
-
-                </div>
-
-            </article>
-
-            <article class="project-card">
-
-                <div class="project-thumbnail">
-
-                    <img src="Images/Projects/project3-thumb.jpg" alt="Project Name">
-
-                </div>
-
-                <div class="project-info">
-
-                    <h2 class="project-title">Third Project Title</h2>
-                    <p class="project-summary">Keep adding project cards like this. Each category page can have as many or as few projects as you need.</p>
-                    <a href="project-detail-3.html" class="project-link">See more →</a>
+                    <a href="Animal-Documentary" class="project-link">See more →</a>
 
                 </div>
 

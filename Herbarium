@@ -3,7 +3,7 @@
 <head>
 
     <meta charset="utf-8">
-    <title>Brand Redesign - SquareEnix</title>
+    <title>Herbarium</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="CSS-Files/Base.css">
     <link rel="stylesheet" href="CSS-Files/Layout.css">
@@ -72,7 +72,7 @@
 
                 <img src="Images/Projects/project-header.jpg" alt="Project Name">
 
-                <h1>Brand Redesign - SquareEnix</h1>
+                <h1>Herbarium</h1>
 
             </section>
             
@@ -82,9 +82,11 @@
                 <div class="project-description">
 
                     <h2>About This Project</h2>
-                    <p>This project was made in the context of a Branding class during my first year studying multimedia design. The objective was rebranding an established company while researching about the company of choice in order to maintain their identity while giving it a new look. My company of choice was <b>Square Enix</b> due to my interest in their games.</b></p>
-                    <p>Square Enix Holdings Co., Ltd. is a Japanese electronic game developer and publisher based in Tokyo. It is best known for its electronic RPG franchises, which include Final Fantasy, Dragon Quest, and Kingdom Hearts. Its headquarters are in the Shinjuku district of Tokyo.</p>
-
+                    <p>This project was made in the context of a photography class with the objective of creating a themed herbarium. The them was free choice, and I chose to document something very personal to me in the form of the abandonment of Portugal's countryside.</b></p>
+                    <p>The objective of this work is to demonstrate the abandonment of the interior area of Portugal through a style named "urban decay", that is, photos of Houses that have been consumed by the surrounding nature.</p>
+                    <p>To make this work, I walked the paths of many villages around the place where i was born and lived all my life, including the itenerary I had to do daily to go to university. I spent weeks in search of houses that are in a high state of degradation and after taking several photographs, I selected the 6 that I thought were the best and used digital treatment to bring out the green hue of the plants as a way to reinforce the idea that nature took over these formerly inhabited places.</p>
+                    <p>This project was also inspired by two very relevant photography collections. <a href="https://www.rebeccabathory.com/orphansoftime">"Orphans of time"</a> by Rebecca Bathory and <a href="http://matthiashaker.de/?portfolio=impermanence">"Impermanence"</a> by Matthias Haker.</p>
+                    
                 </div>
 
                 <div class="project-hero">
