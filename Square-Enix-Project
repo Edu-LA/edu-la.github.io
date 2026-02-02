@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <title>Project Name</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="CSS-Files/Base.css">
+    <link rel="stylesheet" href="CSS-Files/Layout.css">
+    <link rel="stylesheet" href="CSS-Files/ProjectDetail.css">
+    <link rel="stylesheet" href="CSS-Files/Responsive.css">
+
+</head>
+
+<body>
+
+    <header class="topbar">
+
+        <img src="Images/Untitled.png" alt="Logo" class="topbar-logo">
+
+        <button class="menu-toggle">
+
+            <svg viewBox="0 0 24 24">
+
+                <rect class="line top" x="0" y="4" width="24" height="2" fill="white" />
+                <rect class="line middle" x="0" y="11" width="24" height="2" fill="white" />
+                <rect class="line bottom" x="0" y="18" width="24" height="2" fill="white" />
+            </svg>
+
+        </button>
+
+    </header>
+    
+    <div class="menu-container">
+
+        <aside class="sidebar">
+
+            <div class="sidebar-logo">
+
+                <img src="Images/Untitled.png" alt="Logo">
+            </div>
+
+            
+            <nav>
+
+                <ul>
+
+                    <li><a href="Index">Homepage</a></li>
+                    <li><a href="videogames" class="active">Videogames</a></li>
+                    <li><a href="videos">Videos</a></li>
+                    <li><a href="image-branding">Image and Branding</a></li>
+                    <li><a href="writing">Writing</a></li>
+                    <li><a href="about">About</a></li>
+
+                </ul>
+
+            </nav>
+
+        </aside>
+
+    </div>
+    
+    <main class="main-content">
+
+        <div class="project-detail-container">
+            
+
+            <a href="Image-branding" class="back-link">← Back</a>
+            
+
+            <section class="project-header">
+
+                <img src="Images/Projects/project-header.jpg" alt="Project Name">
+
+                <h1>Brand Redesign - SquareEnix</h1>
+
+            </section>
+            
+
+            <section class="project-content">
+
+                <div class="project-description">
+
+                    <h2>About This Project</h2>
+                    <p>This project was made in the context of a Branding class during my first year studying multimedia design. The objective was rebranding an established company while researching about the company of choice in order to maintain their identity while giving it a new look. My company of choice was <b>Square Enix</b> due to my interest in their games.</b></p>
+                    <p>Square Enix Holdings Co., Ltd. is a Japanese electronic game developer and publisher based in Tokyo. It is best known for its electronic RPG franchises, which include Final Fantasy, Dragon Quest, and Kingdom Hearts. Its headquarters are in the Shinjuku district of Tokyo.</p>
+
+                </div>
+
+                <div class="project-hero">
+
+                    <img src="Images/Projects/project-hero.jpg" alt="Project Hero Image">
+
+                </div>
+
+            </section>
+            
+
+            <section class="project-gallery">
+
+                <h2>Gallery</h2>
+                
+                <div class="gallery-viewer">
+
+                    <button class="gallery-nav prev" aria-label="Previous image">
+
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+
+                            <path d="M15 18l-6-6 6-6"/>
+                        </svg>
+
+                    </button>
+                    
+                    <div class="gallery-main">
+
+                        <img src="Images/Projects/Gallery/image1.jpg" alt="Gallery image 1" class="gallery-image active" data-index="0">
+                        <img src="Images/Projects/Gallery/image2.jpg" alt="Gallery image 2" class="gallery-image" data-index="1">
+                        <img src="Images/Projects/Gallery/image3.jpg" alt="Gallery image 3" class="gallery-image" data-index="2">
+                        <img src="Images/Projects/Gallery/image4.jpg" alt="Gallery image 4" class="gallery-image" data-index="3">
+                        <img src="Images/Projects/Gallery/image5.jpg" alt="Gallery image 5" class="gallery-image" data-index="4">
+
+                    </div>
+                    
+                    <button class="gallery-nav next" aria-label="Next image">
+
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+
+                            <path d="M9 18l6-6-6-6"/>
+
+                        </svg>
+
+                    </button>
+                </div>
+                
+                <div class="gallery-caption">
+
+                    <p class="caption-text" data-caption-0="Description of the first image. Explain what this screenshot or asset shows.">Description of the first image. Explain what this screenshot or asset shows.</p>
+                    <p class="caption-text" data-caption-1="Description of the second image." style="display: none;">Description of the second image.</p>
+                    <p class="caption-text" data-caption-2="Description of the third image." style="display: none;">Description of the third image.</p>
+                    <p class="caption-text" data-caption-3="Description of the fourth image." style="display: none;">Description of the fourth image.</p>
+                    <p class="caption-text" data-caption-4="Description of the fifth image." style="display: none;">Description of the fifth image.</p>
+
+                </div>
+                
+                <div class="gallery-counter">
+
+                    <span class="current-image">1</span> / <span class="total-images">5</span>
+
+                </div>
+
+            </section>
+            
+        </div>
+    </main>
+    
+    <script src="JS/menubuttonjs"></script>
+    <script src="JS/gallery"></script>
+</body>
+</html>

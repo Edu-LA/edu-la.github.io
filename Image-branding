@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Projects - Category Name</title>
+    <title>Projects - Image and Branding</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="CSS-Files/Base.css">
     <link rel="stylesheet" href="CSS-Files/Layout.css">
@@ -73,9 +73,9 @@
 
                 <div class="project-info">
 
-                    <h2 class="project-title">Project Title Here</h2>
-                    <p class="project-summary">Brief description of the project goes here. Keep it concise and engaging to give users a quick overview of what this project is about.</p>
-                    <a href="project-detail-1.html" class="project-link">See more →</a>
+                    <h2 class="project-title">Brand Redesign - SquareEnix</h2>
+                    <p class="project-summary">Project made in the context of a branding class during my first year studying multimedia design. The objective was rebranding an established company while researching about the company of choice in order to maintain their identity.</p>
+                    <a href="Square-Enix-Project" class="project-link">See more →</a>
 
                 </div>
 

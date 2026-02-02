@@ -70,9 +70,10 @@
                 <div class="intro-text">
 
                     <h1>About Me</h1>
-                    <p>Hi, I'm [Your Name]. I'm a [your role/title] passionate about creating engaging experiences through design and interactive media.</p>
-                    <p>Write your introduction here. Talk about your background, what drives you, and what you're passionate about. This is your chance to connect with visitors and show your personality.</p>
-                    <p>Add as many paragraphs as you need to tell your story authentically.</p>
+                    <p>Hi, I'm Eduardo Amaral. I'm a videogame designer with a strong academic focus on level design and narrative design. I recently graduated with a Master's degree in Videogame Design, following a Bachelor's degree in Multimedia Design and a specialized high school diploma in Computer Science.</p>
+                    <p>I'm especially drawn to the relationship between environment, storytelling, and player behavior — how level structure, visual cues, and narrative context can guide players without breaking immersion. Whether designing a level or shaping narrative flow, I aim to create experiences that feel intentional and cohesive.</p>
+                    <p>Alongside game development, I have an academic background in front-end web and web design, with an emphasis on layout, usability, and visual coherence rather than heavy programming. This has shaped how I think about interfaces, clarity, and user experience across interactive projects.</p>
+                    <p>As an early-career designer, I'm motivated by learning, iteration, and collaboration, and I'm eager to continue developing my skills through hands-on projects and meaningful creative challenges.</p>
 
                 </div>
 
@@ -86,58 +87,53 @@
             
 
             <section class="about-skills">
-
+                
                 <h2>Tools</h2>
 
-                <div class="skills-grid">
+                <ul class="skills-list">
 
-                    <div class="skill-item">
-                        <img src="Images/Tools/unity-icon.png" alt="Unity">
-                    </div>
-
-                    <div class="skill-item">
-                        <img src="Images/Tools/unreal-icon.png" alt="Unreal Engine 5">
-                    </div>
-
-                    <div class="skill-item">
-                        <img src="Images/Tools/photoshop-icon.png" alt="Photoshop">
-                    </div>
-
-                    <div class="skill-item">
-                        <img src="Images/Tools/premiere-icon.png" alt="Premiere Pro">
-                    </div>
-
-                    <div class="skill-item">
-                        <img src="Images/Tools/aftereffects-icon.png" alt="After Effects">
-                    </div>
-
-                    <div class="skill-item">
-                        <img src="Images/Tools/illustrator-icon.png" alt="Illustrator">
-                    </div>
-
-                    <div class="skill-item">
-                        <img src="Images/Tools/blender-icon.png" alt="Blender">
-                    </div>
-
-                </div>
+                    <li>Unity</li>
+                    <li>Unreal Engine 5</li>
+                    <li>Photoshop</li>
+                    <li>Premiere Pro</li>
+                    <li>After Effects</li>
+                    <li>Illustrator</li>
+                    <li>Blender</li>
+                    <li>C#</li>
+                    <li>C++</li>
+                    <li>HTML/CSS</li>
+                   
+                </ul>
 
             </section>
 
             <section class="about-qualifications">
 
                 <h2>Education & Qualifications</h2>
+
+                 <div class="qualification-item">
+
+                    <div class="qual-header">
+
+                        <h3>Master's Degree in Videogame Design</h3>
+                        <span class="qual-year">2023 - 2025</span>
+
+                    </div>
+
+                    <p class="qual-institution">Universidade da Beira Interior, Covilhã</p>
+
+                </div>
                 
                 <div class="qualification-item">
 
                     <div class="qual-header">
 
-                        <h3>Bachelor's Degree in Design</h3>
-                        <span class="qual-year">2018 - 2022</span>
+                        <h3>Bachelor's Degree in Multimedia Design</h3>
+                        <span class="qual-year">2020 - 2023</span>
 
                     </div>
 
-                    <p class="qual-institution">University Name, Location</p>
-                    <p class="qual-description">Brief description of your degree, what you studied, any notable achievements or projects during this time.</p>
+                    <p class="qual-institution">Universidade da Beira Interior, Covilhã</p>
 
                 </div>
                 
@@ -146,30 +142,31 @@
                     <div class="qual-header">
 
                         <h3>Specialized High School Course in Computer Science</h3>
-                        <span class="qual-year">2015 - 2018</span>
+                        <span class="qual-year">2016 - 2019</span>
 
                     </div>
 
-                    <p class="qual-institution">School Name, Location</p>
-                    <p class="qual-description">What you learned, skills you developed, any relevant coursework.</p>
-                    
+                    <p class="qual-institution">Escola Secundária Frei Heitor Pinto, Covilhã</p>
+
                 </div>
 
+                <!--
                 <div class="qualification-item">
 
                     <div class="qual-header">
 
                         <h3>Certification or Additional Training</h3>
 
-                        <span class="qual-year">2023</span>
+                        <span class="qual-year"></span>
 
                     </div>
 
-                    <p class="qual-institution">Institution Name</p>
-                    <p class="qual-description">Description of the certification or training program.</p>
+                    <p class="qual-institution"></p>
+                    <p class="qual-description"></p>
 
                 </div>
-                
+                -->
+
             </section>
             
         </div>
