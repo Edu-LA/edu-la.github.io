@@ -38,16 +38,6 @@
 
 }
 
-.project-header img {
-
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 8px;
-    margin-bottom: 24px;
-
-}
-
 .project-header h1 {
 
     font-size: 48px;
@@ -147,7 +137,7 @@
     background: #f6f6f6;
     border-radius: 8px;
     overflow: hidden;
-    min-height: 500px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -340,7 +330,7 @@
     
     .gallery-main {
 
-        min-height: 300px;
+        height: 400px;
 
     }
     

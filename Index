@@ -63,22 +63,28 @@
 
     <main class="main-content homepage">
 
+        <div class="mobile-hero">
+
+            <img src="Images/Projects/Square-Enix/SE-project-hero.png" alt="">
+
+        </div>
+
         <div class="slideshow">
 
-            <img src="Images/Slideshow-images/EoLimg.png" alt="" class="slide s1">
-            <img src="Images/Slideshow-images/GTGimg.jpg" alt="" class="slide s2">
-            <img src="Images/Slideshow-images/HERimg.png" alt="" class="slide s3">
+            <img src="Images/Projects/Games/EOL.png" alt="" class="slide s1">
+            <img src="Images/Projects/Games/GTGimg.jpg" alt="" class="slide s2">
+            <img src="Images/Projects/Herbarium/Thumb.jpg" alt="" class="slide s3">
 
             <div class="slide poster s4">
 
-                <img src="Images/Slideshow-images/HRimg.png" alt="">
+                <img src="Images/Projects/Cultural-Posters/final.png" alt="">
 
             </div>
 
-            <img src="Images/Slideshow-images/SEimg.png" alt="" class="slide s5">
-            <img src="Images/Slideshow-images/SIRSimg.png" alt="" class="slide s6">
-            <img src="Images/Slideshow-images/VRVIDimg.png" alt="" class="slide s7">
-            <img src="Images/Slideshow-images/LNJimg.png" alt="" class="slide s8">
+            <img src="Images/Projects/Square-Enix/SQUARE ENIX edificio.png" alt="" class="slide s5">
+            <img src="Images/Projects/Games/SSOR.png" alt="" class="slide s6">
+            <img src="Images/Projects/Animal-Doc/Animal-Doc-thumb.png" alt="" class="slide s7">
+            <img src="Images/Projects/Games/LNJ.png" alt="" class="slide s8">
 
         </div>
 

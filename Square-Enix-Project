@@ -70,8 +70,6 @@
 
             <section class="project-header">
 
-                <img src="Images/Projects/project-header.jpg" alt="Project Name">
-
                 <h1>Brand Redesign - SquareEnix</h1>
 
             </section>
@@ -89,7 +87,7 @@
 
                 <div class="project-hero">
 
-                    <img src="Images/Projects/project-hero.jpg" alt="Project Hero Image">
+                    <img src="Images/Projects/Square-Enix/SE-project-hero.png" alt="Project Hero Image">
 
                 </div>
 
@@ -113,11 +111,14 @@
                     
                     <div class="gallery-main">
 
-                        <img src="Images/Projects/Gallery/image1.jpg" alt="Gallery image 1" class="gallery-image active" data-index="0">
-                        <img src="Images/Projects/Gallery/image2.jpg" alt="Gallery image 2" class="gallery-image" data-index="1">
-                        <img src="Images/Projects/Gallery/image3.jpg" alt="Gallery image 3" class="gallery-image" data-index="2">
-                        <img src="Images/Projects/Gallery/image4.jpg" alt="Gallery image 4" class="gallery-image" data-index="3">
-                        <img src="Images/Projects/Gallery/image5.jpg" alt="Gallery image 5" class="gallery-image" data-index="4">
+                        <img src="Images/Projects/Square-Enix/brandscape.png" alt="Gallery image 1" class="gallery-image active" data-index="0">
+                        <img src="Images/Projects/Square-Enix/ff7R.png" alt="Gallery image 2" class="gallery-image" data-index="1">
+                        <img src="Images/Projects/Square-Enix/ID badge square enix.png" alt="Gallery image 3" class="gallery-image" data-index="2">
+                        <img src="Images/Projects/Square-Enix/Polo shirt.png" alt="Gallery image 4" class="gallery-image" data-index="3">
+                        <img src="Images/Projects/Square-Enix/SQUARE ENIX edificio.png" alt="Gallery image 5" class="gallery-image" data-index="4">
+                        <img src="Images/Projects/Square-Enix/Identidade visual final 1 (final).png" alt="Gallery image 6" class="gallery-image" data-index="5">
+                        <img src="Images/Projects/Square-Enix/simbolo 1.png" alt="Gallery image 5" class="gallery-image 7" data-index="6">
+                        <img src="Images/Projects/Square-Enix/simbolo 2.png" alt="Gallery image 5" class="gallery-image 8" data-index="7">
 
                     </div>
                     
@@ -134,11 +135,14 @@
                 
                 <div class="gallery-caption">
 
-                    <p class="caption-text" data-caption-0="Description of the first image. Explain what this screenshot or asset shows.">Description of the first image. Explain what this screenshot or asset shows.</p>
-                    <p class="caption-text" data-caption-1="Description of the second image." style="display: none;">Description of the second image.</p>
-                    <p class="caption-text" data-caption-2="Description of the third image." style="display: none;">Description of the third image.</p>
-                    <p class="caption-text" data-caption-3="Description of the fourth image." style="display: none;">Description of the fourth image.</p>
-                    <p class="caption-text" data-caption-4="Description of the fifth image." style="display: none;">Description of the fifth image.</p>
+                    <p class="caption-text">Brandscape with all the rebranding elements.</p>
+                    <p class="caption-text" style="display: none;">Mockup of a video game case.</p>
+                    <p class="caption-text" style="display: none;">Employee ID badge.</p>
+                    <p class="caption-text" style="display: none;">Employee uniform for marketing events.</p>
+                    <p class="caption-text" style="display: none;">Company HQ mockup.</p>
+                    <p class="caption-text" style="display: none;">Logo 1</p>
+                    <p class="caption-text" style="display: none;">Logo 2</p>
+                    <p class="caption-text" style="display: none;">Logo 3</p>
 
                 </div>
                 

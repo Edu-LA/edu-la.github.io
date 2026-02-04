@@ -70,8 +70,6 @@
 
             <section class="project-header">
 
-                <img src="Images/Projects/project-header.jpg" alt="Project Name">
-
                 <h1>Animal Documentary - Codename: VR</h1>
 
             </section>
@@ -83,13 +81,13 @@
 
                     <h2>About This Project</h2>
                     <p>This project was made in the context of a video editing class with the objective of stylized documentary. The objective was learning proper editing techniques while maintaining a distinct visual identity.</b></p>
-                    <p>The documentary tries to simulate a body cam of a special agent investigating a village where a virus (inspired by Resident Evil / Biohazard) has amde animals to be aggressive towards humans. Using this concept, I created a short story and started shooting as many scenes as I could, walking around a village and recording the animals living in its streets. A VHS camera effect was used, and in certain parts of the video text was introduced to simulate the effect used in confidential documents to explain certain aspects of the story.</p>
+                    <p>The documentary tries to simulate a body cam of a special agent investigating a village where a virus (inspired by Resident Evil / Biohazard) has made animals to be aggressive towards humans. Using this concept, I created a short story and started shooting as many scenes as I could, walking around a village and recording the animals living in its streets. A VHS camera effect was used, and in certain parts of the video text was introduced to simulate the effect used in confidential documents to explain certain aspects of the story.</p>
                     
                 </div>
 
                 <div class="project-hero">
 
-                    <img src="Images/Projects/project-hero.jpg" alt="Project Hero Image">
+                    <img src="Images/Projects/Animal-Doc/Animal-Doc-thumb.png" alt="Project Hero Image">
 
                 </div>
 
@@ -102,13 +100,15 @@
 
                 <div class="video-container">
 
-                    <iframe 
-                        src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
-                        title="Animal Documentary - Codename: VR" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                        allowfullscreen>
-                    </iframe>
+                <iframe width="560" height="315" 
+                    src="https://www.youtube.com/embed/hMrFDffvnMA?si=_btF3VFA9YFrmCxI" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    referrerpolicy="strict-origin-when-cross-origin" 
+                    allowfullscreen>
+                </iframe>
+
                 </div>
 
                 <p class="video-caption">Animal Documentary - Codename: VR (2023) - A stylized documentary exploring a village affected by a fictional virus.</p>

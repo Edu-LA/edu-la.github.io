@@ -38,6 +38,7 @@
             <div class="sidebar-logo">
 
                 <img src="Images/Untitled.png" alt="Logo">
+
             </div>
 
             
@@ -70,8 +71,6 @@
 
             <section class="project-header">
 
-                <img src="Images/Projects/project-header.jpg" alt="Project Name">
-
                 <h1>Herbarium</h1>
 
             </section>
@@ -91,7 +90,7 @@
 
                 <div class="project-hero">
 
-                    <img src="Images/Projects/project-hero.jpg" alt="Project Hero Image">
+                    <img src="Images/Projects/Herbarium/Herbarium-hero.jpg" alt="Project Hero Image">
 
                 </div>
 
@@ -115,11 +114,31 @@
                     
                     <div class="gallery-main">
 
-                        <img src="Images/Projects/Gallery/image1.jpg" alt="Gallery image 1" class="gallery-image active" data-index="0">
-                        <img src="Images/Projects/Gallery/image2.jpg" alt="Gallery image 2" class="gallery-image" data-index="1">
-                        <img src="Images/Projects/Gallery/image3.jpg" alt="Gallery image 3" class="gallery-image" data-index="2">
-                        <img src="Images/Projects/Gallery/image4.jpg" alt="Gallery image 4" class="gallery-image" data-index="3">
-                        <img src="Images/Projects/Gallery/image5.jpg" alt="Gallery image 5" class="gallery-image" data-index="4">
+                        <img src="Images/Projects/Herbarium/Herbarium  1.jpg" alt="Gallery image 1" class="gallery-image active" data-index="0">
+                        <img src="Images/Projects/Herbarium/Herbarium  2.jpg" alt="Gallery image 2" class="gallery-image" data-index="1">
+                        <img src="Images/Projects/Herbarium/Herbarium  3.jpg" alt="Gallery image 3" class="gallery-image" data-index="2">
+                        <img src="Images/Projects/Herbarium/Herbarium  4.jpg" alt="Gallery image 4" class="gallery-image" data-index="3">
+                        <img src="Images/Projects/Herbarium/Herbarium  5.jpg" alt="Gallery image 5" class="gallery-image" data-index="4">
+                        <img src="Images/Projects/Herbarium/Herbarium  6.jpg" alt="Gallery image 6" class="gallery-image" data-index="5">
+                        <img src="Images/Projects/Herbarium/Herbarium  7.jpg" alt="Gallery image 7" class="gallery-image" data-index="6">
+                        <img src="Images/Projects/Herbarium/Herbarium  8.jpg" alt="Gallery image 8" class="gallery-image" data-index="7">
+                        <img src="Images/Projects/Herbarium/Herbarium  9.jpg" alt="Gallery image 9" class="gallery-image" data-index="8">
+                        <img src="Images/Projects/Herbarium/Herbarium  10.jpg" alt="Gallery image 10" class="gallery-image" data-index="9">
+                        <img src="Images/Projects/Herbarium/Herbarium  11.jpg" alt="Gallery image 11" class="gallery-image" data-index="10">
+                        <img src="Images/Projects/Herbarium/Herbarium  12.jpg" alt="Gallery image 12" class="gallery-image" data-index="11">
+                        <img src="Images/Projects/Herbarium/Herbarium  13.jpg" alt="Gallery image 13" class="gallery-image" data-index="12">
+                        <img src="Images/Projects/Herbarium/Herbarium  14.jpg" alt="Gallery image 14" class="gallery-image" data-index="13">
+                        <img src="Images/Projects/Herbarium/Herbarium  15.jpg" alt="Gallery image 15" class="gallery-image" data-index="14">
+                        <img src="Images/Projects/Herbarium/Herbarium  16.jpg" alt="Gallery image 16" class="gallery-image" data-index="15">
+                        <img src="Images/Projects/Herbarium/Herbarium 17.jpg" alt="Gallery image 17" class="gallery-image" data-index="16">
+                        <img src="Images/Projects/Herbarium/Herbarium 18.jpg" alt="Gallery image 18" class="gallery-image" data-index="17">
+                        <img src="Images/Projects/Herbarium/Herbarium 1 Final.jpg" alt="Gallery image 19" class="gallery-image" data-index="18">
+                        <img src="Images/Projects/Herbarium/Herbarium 2 Final.jpg" alt="Gallery image 20" class="gallery-image" data-index="19">
+                        <img src="Images/Projects/Herbarium/Herbarium 3 Final.jpg" alt="Gallery image 21" class="gallery-image" data-index="20">
+                        <img src="Images/Projects/Herbarium/Herbarium 4 Final.jpg" alt=" alt="Gallery image 22" class="gallery-image" data-index="21">
+                        <img src="Images/Projects/Herbarium/Herbarium-hero.jpg" alt="Gallery image 23" class="gallery-image" data-index="22">
+                        <img src="Images/Projects/Herbarium/Thumb.jpg" alt="Gallery image 24" class="gallery-image" data-index="23">
+
 
                     </div>
                     
@@ -136,17 +155,36 @@
                 
                 <div class="gallery-caption">
 
-                    <p class="caption-text" data-caption-0="Description of the first image. Explain what this screenshot or asset shows.">Description of the first image. Explain what this screenshot or asset shows.</p>
-                    <p class="caption-text" data-caption-1="Description of the second image." style="display: none;">Description of the second image.</p>
-                    <p class="caption-text" data-caption-2="Description of the third image." style="display: none;">Description of the third image.</p>
-                    <p class="caption-text" data-caption-3="Description of the fourth image." style="display: none;">Description of the fourth image.</p>
-                    <p class="caption-text" data-caption-4="Description of the fifth image." style="display: none;">Description of the fifth image.</p>
+                    <p class="caption-text">Photo 1.</p>
+                    <p class="caption-text" style="display: none;">Photo 2.</p>
+                    <p class="caption-text" style="display: none;">Photo 3.</p>
+                    <p class="caption-text" style="display: none;">Photo 4.</p>
+                    <p class="caption-text" style="display: none;">Photo 5.</p>
+                    <p class="caption-text" style="display: none;">Photo 6.</p>
+                    <p class="caption-text" style="display: none;">Photo 7.</p>
+                    <p class="caption-text" style="display: none;">Photo 8.</p>
+                    <p class="caption-text" style="display: none;">Photo 9.</p>
+                    <p class="caption-text" style="display: none;">Photo 10.</p>
+                    <p class="caption-text" style="display: none;">Photo 11.</p>
+                    <p class="caption-text" style="display: none;">Photo 12.</p>
+                    <p class="caption-text" style="display: none;">Photo 13.</p>
+                    <p class="caption-text" style="display: none;">Photo 14.</p>
+                    <p class="caption-text" style="display: none;">Photo 15.</p>
+                    <p class="caption-text" style="display: none;">Photo 16.</p>
+                    <p class="caption-text" style="display: none;">Photo 17.</p>
+                    <p class="caption-text" style="display: none;">Photo 18.</p>
+                    <p class="caption-text" style="display: none;">Final edited photo 1.</p>
+                    <p class="caption-text" style="display: none;">Final edited photo 2.</p>
+                    <p class="caption-text" style="display: none;">Final edited photo 3.</p>
+                    <p class="caption-text" style="display: none;">Final edited photo 4.</p>
+                    <p class="caption-text" style="display: none;">Final edited photo 5.</p>
+                    <p class="caption-text" style="display: none;">Final edited photo 6.</p>
 
                 </div>
                 
                 <div class="gallery-counter">
 
-                    <span class="current-image">1</span> / <span class="total-images">5</span>
+                    <span class="current-image">1</span> / <span class="total-images"></span>
 
                 </div>
 

@@ -69,20 +69,39 @@
 
 }
 
+.mobile-hero {
+
+    display: none;
+
+}
+
 @media (max-width: 768px) {
 
-    .main-content {
-
-        background-image: url('../Images/Slideshow-images/mobile-hero.png');
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+    .slideshow {
+        
+        display: none;
 
     }
-    
-    .slideshow {
 
-        display: none;
+    .mobile-hero {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        height: calc(100vh - 56px); 
+        width: 100vw;
+
+    }
+
+    .mobile-hero img {
+
+        max-height: 100%;
+        max-width: 100%;
+        height: auto;
+        width: auto;
+        object-fit: contain;
+        display: block;
         
     }
 }
