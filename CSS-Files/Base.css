@@ -20,6 +20,18 @@ body {
 
 }
 
+a {
+
+    color: #FF7800;
+
+}
+
+a:visited {
+
+    color: #5B2D8B;
+
+}
+
 :root {
 
     --sidebar-width: clamp(150px, 20vw, 350px);
