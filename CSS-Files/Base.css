@@ -10,12 +10,20 @@
 
     font-family: "Inter";
     src: url(../Fonts/Inter_24pt-Regular.ttf) format('truetype');
+    font-weight: 400;
 
 }
 
 @font-face {
 
     font-family: "WorkSans";
+    src: url(../Fonts/WorkSans-Regular.ttf) format('truetype');
+
+}
+
+@font-face {
+
+    font-family: "WorkSansBold";
     src: url(../Fonts/WorkSans-Bold.ttf) format('truetype');
 
 }
@@ -26,9 +34,16 @@ ol, ul {
 
 }
 
-h1, h2, h3 {
+h1 {
 
-    font-family: "WorkSans", sans-serif;
+    font-family: "WorkSansBold", sans-serif;
+    font-weight: bold;
+
+}
+
+h2, h3 {
+
+     font-family: "WorkSans", sans-serif;
 
 }
 
