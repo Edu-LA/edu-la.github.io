@@ -78,7 +78,7 @@
 
     font-size: 16px;
     line-height: 1.5;
-    color: #666;
+    color: #555;
     margin: 0 0 16px 0;
     flex: 1;
 
@@ -97,7 +97,7 @@
 
 .project-link:hover {
 
-    color: #666;
+    color: #FF7800;
 
 }
 
